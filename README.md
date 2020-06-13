@@ -1,1 +1,1 @@
-# -entry helper
+# -helper
